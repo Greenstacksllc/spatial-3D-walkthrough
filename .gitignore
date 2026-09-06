@@ -1,0 +1,31 @@
+# Security & Credentials
+.env
+*.pem
+*.key
+secrets.json
+
+# Python Environment & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+
+# 3D Render Output & Heavy Media (Keeps repository lightweight)
+/renders/
+/input_images/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.obj
+*.gltf
+*.bin
+*.blend
+*.blend1
+
+# Operating System Files
+.DS_Store
+Thumbs.db

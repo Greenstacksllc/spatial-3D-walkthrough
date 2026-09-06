@@ -1,0 +1,88 @@
+<div align="center" style="background-color: #0A0A0A; padding: 25px; border-radius: 12px; border: 2px solid #D4AF37;">
+
+  <h1 style="color: #D4AF37; font-family: sans-serif; font-size: 2.2em; margin-bottom: 5px;">
+    3D SPATIAL WALKTHROUGH & MEMORIAL MAPPING PIPELINE
+  </h1>
+  <p style="color: #FFFFFF; font-size: 1.1em; margin-top: 0px;">
+    Batch Photogrammetry Reconstruction & Infinite Image Mapping Architecture
+  </p>
+
+  <hr style="border: 1px solid #2E7D32; width: 80%; margin: 20px auto;" />
+
+</div>
+
+<br />
+
+<h2 style="color: #D4AF37; border-bottom: 1px solid #D4AF37;">🛡️ Corporate Security & Scam Notice</h2>
+
+<table width="100%" style="background-color: #121212; border: 2px solid #FF3333; border-radius: 8px;">
+  <tr>
+    <td style="padding: 15px; color: #FFFFFF;">
+      <strong style="color: #FF3333; font-size: 1.2em;">OFFICIAL NOTICE & SECURITY DISCLAIMER:</strong><br /><br />
+      Unauthorized third parties or malicious actors may attempt to misrepresent our automated tools, company identity, or brand assets. All legitimate 3D rendering service agreements, digital coordinate packages, and site licenses are processed exclusively through our official channels.<br /><br />
+      <em>Please verify all communications, invoices, and payment links against our official records. We do not solicit payments through unauthorized third-party apps.</em>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 style="color: #D4AF37; border-bottom: 1px solid #D4AF37;">💰 Commercial Licensing & Services</h2>
+
+<table width="100%" style="background-color: #121212; border: 1px solid #2E7D32; border-radius: 8px; color: #FFFFFF;">
+  <thead>
+    <tr style="border-bottom: 1px solid #D4AF37; color: #D4AF37;">
+      <th align="left" style="padding: 10px;">Target Area / Service Tier</th>
+      <th align="left" style="padding: 10px;">Perpetual Single-Site License</th>
+      <th align="left" style="padding: 10px;">Annual Maintenance / Cloud Hosting</th>
+      <th align="left" style="padding: 10px;">Unlimited Commercial Buyout</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;"><strong>Individual Memorial ("Never Lost")</strong></td>
+      <td style="padding: 10px; color: #2E7D32;"><strong>$350.00 – $500.00</strong></td>
+      <td style="padding: 10px;">N/A</td>
+      <td style="padding: 10px;">$799.00</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Georgia Pet Cemeteries (1 Area)</strong></td>
+      <td style="padding: 10px; color: #D4AF37;"><strong>$799.00</strong></td>
+      <td style="padding: 10px;">$150.00 / year</td>
+      <td style="padding: 10px;">$2,500.00</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Georgia Pet Cemeteries (3 Areas)</strong></td>
+      <td style="padding: 10px; color: #D4AF37;"><strong>$1,500.00</strong></td>
+      <td style="padding: 10px;">$300.00 / year</td>
+      <td style="padding: 10px;">$5,000.00</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>Atlanta Botanical Gardens & Historic Sites</strong></td>
+      <td style="padding: 10px; color: #D4AF37;"><strong>$3,500.00 – $7,500.00</strong></td>
+      <td style="padding: 10px;">$500.00 / year</td>
+      <td style="padding: 10px;">$10,000.00+</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<h2 style="color: #D4AF37; border-bottom: 1px solid #D4AF37;">📸 Photogrammetry & Rendering Engine Prompts</h2>
+
+### Master OpenArt / AI Visual Walkthrough Prompt:
+> *"Cinematic 3D architectural visualization, serene pet memorial garden and peaceful burial grounds, lush green rolling grass, neatly organized memorial marker stones and custom engraved plaques, shaded by weeping willow and oak trees, soft golden hour sunlight filtering through leaves, winding stone pathway, peaceful, respectful, highly detailed environment design, unreal engine 5 render style, photorealistic, 8k resolution --ar 16:9"*[span_2](start_span)[span_2](end_span)
+
+### Individual B2C "Never Lost" Memorial Prompt:
+> *"Cinematic steady cam walkthrough, one continuous take, no cut: starts at a peaceful stone memorial marker in a serene pet remembrance garden with lush green grass, wildflowers, and weeping willow trees, glides smoothly along a winding brick pathway overlooking quiet burial plots, soft golden hour sunlight filtering through leaves, respectful and comforting atmosphere, highly detailed environment design, unreal engine 5 render style, photorealistic, 8k resolution --ar 16:9"*[span_3](start_span)[span_3](end_span)
+
+<br />
+
+<h2 style="color: #D4AF37; border-bottom: 1px solid #D4AF37;">⚙️ Technical Stack</h2>
+
+<p style="color: #FFFFFF;">
+<b>Languages:</b> Python 3.x, Blender Python API<br />
+<b>Engine:</b> Local Photogrammetry Mesh Reconstruction<br />
+<b>Database:</b> Supabase (PostgreSQL)<br />
+<b>Payments:</b> Stripe API Integration[span_4](start_span)[span_4](end_span)
+</p>
